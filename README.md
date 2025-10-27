@@ -114,6 +114,9 @@ Cara Menjalankan Program
 Kontributor
 
 Nama: Syandhika A.F.
+
 Program Studi: Informatika
+
 Semester: 5 (Lima)
+
 Mata Kuliah: Pengolahan Citra Digital
